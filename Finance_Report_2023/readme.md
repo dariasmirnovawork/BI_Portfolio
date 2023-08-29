@@ -11,3 +11,4 @@ The main objectives are:
 
 ### Data Model
 
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Finance_Report_2023/01%20Data%20Model.png">
