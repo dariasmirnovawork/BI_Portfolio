@@ -42,7 +42,7 @@ The main objectives are:
 
 ![The Entertainment Page](https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Finance_Report_2023/01%20Entertainment%2001.gif)
 
-The General Needs Page:
+***The General Needs Page:***
 
 ![The General Needs Pag](https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Finance_Report_2023/01%20General%20Needs%2001.gif)
 
