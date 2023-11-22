@@ -2,6 +2,12 @@
 
 ### Quality and Risk
 
+## Built With
+
+* Microsoft Power Point
+* Microsof Excel
+* Miro Collaboration Platform
+
 ### Objective
 
 * To adapt 10 existing printed children's books into eBooks for Grades 3 to 6, targeting teachers and students in classrooms, aligning with the growing demand for digital resources in education.
@@ -54,3 +60,24 @@ Marketing efforts, including tradeshows, digital advertising, and mailings to ed
 * Efficient adaptation of books within budget constraints.
 * Selection of popular printed books that will attract teacher interest.
 * Effective marketing strategy to promote eBooks to the target audience.
+
+### Project Schedule
+
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/Project%20Schedule.jpg">
+
+## Presentation
+
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/Slide1.png">
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/Slide2.png">
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/Slide3.png">
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/Slide4.png">
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/Slide5.png">
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/Slide6.png">
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/Slide7.png">
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/Slide8.png">
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/Slide9.png">
+<img width="620" alt="DataModel" src="https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/Slide10.png">
+
+* [File Presentation](https://github.com/dariasmirnovawork/BI_Portfolio/blob/main/Project%20Management/Learning%20Horizons%20eBooks/PM%20-%20Learning%20Horizons%20eBooks.pdf)
+
+## [Back to Main Menu](https://github.com/dariasmirnovawork/BI_Portfolio/tree/104185a7cefeaf1b8d415ebc35bb43f8b4e7205a)
